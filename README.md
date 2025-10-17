@@ -24,3 +24,5 @@
 ## Resultado
 
 ![image](https://github.com/user-attachments/assets/aa752c59-fe6f-4c02-a3f5-f104c68b93b7)
+
+Alteração de teste.
